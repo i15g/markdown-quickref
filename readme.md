@@ -85,10 +85,10 @@ Doesn't work in most renderers:
 | -------- | -------- | -------- |
 | Data 1A  | Data 1B  | Data 1C  |
 | Data 2A  | Data 2B  | Data 2C  |
+| Data 3A  | Data 3B  | Data 3C  |
 
-Convert Spreadsheet to Markdown Table
+Export from excel/csv/spreadsheet to markdown:
 
-- tags: excel, csv, google sheets
 - https://thisdavej.com/copy-table-in-excel-and-paste-as-a-markdown-table/
 - https://tabletomarkdown.com/convert-spreadsheet-to-markdown/
 
