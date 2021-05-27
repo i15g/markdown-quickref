@@ -92,7 +92,7 @@ Export from excel/csv/spreadsheet to markdown:
 - https://thisdavej.com/copy-table-in-excel-and-paste-as-a-markdown-table/
 - https://tabletomarkdown.com/convert-spreadsheet-to-markdown/
 
-## Multiline code or quote blocks
+## Code block
 
 ```java
 //This is a java code block
@@ -101,6 +101,7 @@ public static void main(String args[]){
 }
 ```
 
+## Quote Block
 > This is a multiline quote block.
 >
 > Linebreaks get their own `>` char.
