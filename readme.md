@@ -46,11 +46,7 @@ There are 6 levels of headings. In descending size order:
 
 ### Numbered
 
-1. One
-2. Two
-3. Three
-
-Most renderers will automatically handle numbering:
+Most renderers will automatically handle numbering, though you can certainly increment them yourself.
 
 1. One
 1. Two
@@ -66,7 +62,7 @@ Most renderers will automatically handle numbering:
   - Subitem
 - Item
 
-Doesn't work:
+Doesn't work in most renderers:
 
 ```
 1. One
@@ -90,7 +86,7 @@ Doesn't work:
 | Data 1A  | Data 1B  | Data 1C  |
 | Data 2A  | Data 2B  | Data 2C  |
 
-### Convert Spreadsheet to Markdown Table
+Convert Spreadsheet to Markdown Table
 
 - tags: excel, csv, google sheets
 - https://thisdavej.com/copy-table-in-excel-and-paste-as-a-markdown-table/
@@ -100,7 +96,9 @@ Doesn't work:
 
 ```java
 //This is a java code block
-public static void main(String args[]){}
+public static void main(String args[]){
+
+}
 ```
 
 > This is a multiline quote block.
